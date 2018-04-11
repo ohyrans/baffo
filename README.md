@@ -1,2 +1,2 @@
 # baffo
-doit and theme files for Plasma, GTK etc
+color, icon, wallpaper and theme files for a Plasma theme
